@@ -1,0 +1,23 @@
+{
+  "name": "boredape",
+  "description": "Awesome NFT collection",
+  "homepage": "https://github.com/anhfactor/tezos-nft-tutorial",
+  "authors": [
+    "Anh Factor"
+  ],
+  "version": "1.0.0",
+  "license": {
+    "name": "MIT"
+  },
+  "interfaces": [
+    "TZIP-016",
+    "TZIP-012",
+    "TZIP-021"
+  ],
+  "source": {
+    "tools": [
+      "LIGO"
+    ],
+    "location": "https://github.com/anhfactor/tezos-nft-tutorial"
+  }
+}
